@@ -6,6 +6,7 @@
 //
 // comment to trigger bitrise build.
 // comment to trigger slack message to channel
+// comment to switch to throwaway slack channel
 
 import UIKit
 import Alamofire
